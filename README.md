@@ -30,7 +30,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Orientation and Preparation
-| Mon (Feb 8) |  |
+| Mon (Feb 7) |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
 | 10:00 - 11:00 | Journey in Quantum - James Weaver, IBM Quantum |

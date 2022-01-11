@@ -30,7 +30,7 @@ The team needs a coach before the final submission at the end of the hackathon.
 
 ## Hackathon Tentative Schedule
 ### Day 1 Orientation and Preparation
-| Mon (Feb 7) |  |
+| Mon (Feb 8) |  |
 | -------------- | --------------------------------- |
 | 9:30 - | Opening remarks & Orientation|
 | 10:00 - 11:00 | Journey in Quantum - James Weaver, IBM Quantum |
@@ -40,7 +40,6 @@ The team needs a coach before the final submission at the end of the hackathon.
 | 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Jeongho Bang, ETRI |
 | 15:00 - 16:00 | Project Pitcher's Time 1 (Team Formation Begins)|
 | 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video Lecture) - Zlatko Minev, Thomas McConkey, IBM Quantum |
-|
 
 ### Day 2 Quantum Special Lectures
 | Tue (Feb 8) |  |

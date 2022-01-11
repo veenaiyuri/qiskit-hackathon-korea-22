@@ -32,12 +32,12 @@ The team needs a coach before the final submission at the end of the hackathon.
 ### Day 1 Orientation and Preparation
 | Mon (Feb 7) |  |
 | -------------- | --------------------------------- |
-| 9:30 - | Opening remarks & Orientation|
+| 9:30 - | Opening remarks & Orientation |
 | 10:00 - 11:00 | Journey in Quantum - James Weaver, IBM Quantum |
 | 11:00 - 12:00 | How to contribute to Qiskit - Hojun Lee@KAIST, Dayeong Kang@KNU |
 | Break | |
-| 13:00 - 14:00 | Quantum Information Theory - Hyukjun Kwon, Imperial College |
-| 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Jeongho Bang, ETRI |
+| 13:00 - 14:00 | Quantum Information Theory - Hyukjun Kwon, KIAS |
+| 14:00 - 15:00 | Quantum Cryptography and Quantum Communication - ‪Junghwan Shin, KT |
 | 15:00 - 16:00 | Project Pitcher's Time 1 (Team Formation Begins)|
 | 16:00 - 17:00 | Introduction to Qiskit Metal + Demo (Video Lecture) - Zlatko Minev, Thomas McConkey, IBM Quantum |
 
